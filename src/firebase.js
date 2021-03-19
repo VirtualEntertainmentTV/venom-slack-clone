@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1OF6jbuqB_R35OhG0t64a0DhioGTJMqw",
+  apiKey: "",
   authDomain: "venom-472a5.firebaseapp.com",
   projectId: "venom-472a5",
   storageBucket: "venom-472a5.appspot.com",
